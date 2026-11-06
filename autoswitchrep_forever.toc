@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: AutoSwitchRep_Forever
+## Notes: Automatically switch the reputation bar to the last changed reputation.
+## Notes-koKR: 마지막으로 바뀐 평판으로 평판 바를 자동 전환합니다.
+## Author: Gromit
+## Version: F1.0
+## X-Credits: Gromit
+
+AutoSwitchRep.lua
